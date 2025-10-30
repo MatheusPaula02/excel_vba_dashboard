@@ -21,7 +21,7 @@ Essa solução simplificou significativamente a geração de relatórios e aumen
 - ⚙️ **Atualização Automática**: ao confirmar o preenchimento, o VBA:
   - Insere os dados em uma base estruturada;
   - Atualiza gráficos e indicadores automaticamente;
-- 📈 **Dashboard Dinâmica**: construída com Tabelas Dinâmicas e Gráficos Dinâmicos, vinculada à base de dados.
+- 📈 **Dashboard Dinâmica**: construída com Tabelas Dinâmicas e Gráficos Dinâmicos, vinculada à planilha excel.
 
 ---
 
