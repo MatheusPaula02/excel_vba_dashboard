@@ -1,4 +1,4 @@
-# 📊 Dashboard Automática com Tela de Preenchimento (Excel VBA)
+# 📊 Controle Cantoneiras - Dashboard (Excel VBA)
 
 Este projeto foi desenvolvido durante o meu período como Jovem Aprendiz de Logística.
 Na rotina diária, era necessário preencher manualmente diversas células no Excel com informações como data, ano, transportadora, placa do veículo, entre outros dados operacionais.
