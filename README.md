@@ -6,7 +6,7 @@ Além disso, era preciso gerar relatórios periódicos para acompanhamento e apr
 
 Com o objetivo de otimizar esse processo e reduzir erros manuais, criei uma planilha automatizada em VBA que:
 - Permite o preenchimento rápido dos dados por meio de uma tela interativa (UserForm);
-- Armazena as informações em uma base estruturada;
+- Armazena as informações em uma planilha;
 - Atualiza automaticamente uma dashboard com gráficos e indicadores de desempenho logístico.
 
 Essa solução simplificou significativamente a geração de relatórios e aumentou a eficiência das atividades diárias no setor de logística.
