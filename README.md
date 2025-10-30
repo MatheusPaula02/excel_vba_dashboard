@@ -11,7 +11,7 @@ Com o objetivo de otimizar esse processo e reduzir erros manuais, criei uma plan
 
 Essa solução simplificou significativamente a geração de relatórios e aumentou a eficiência das atividades diárias no setor de logística.
 
-***OBS.: Todos os dados reias da planilha foram substituídos por fictícios.***
+***OBS.: Todos os dados reais da planilha foram substituídos por fictícios.***
 
 ---
 
